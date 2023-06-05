@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "e0739206-a812-46e5-9bfe-70fc0b170519",
+    "colId": "d5031580-9ac3-449c-a827-1de137ce1e78",
+    "containerId": "",
+    "name": "M-Pesa payments",
+    "url": "http://localhost/laradashboard/public/api/process-payment",
+    "method": "POST",
+    "sortNum": 10000,
+    "created": "2023-06-03T11:03:49.790Z",
+    "modified": "2023-06-03T11:04:59.386Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"amount\":\"206\",\n  \"phone_number\":\"844517557\"\n}",
+      "form": []
+    },
+    "tests": []
+  }
+]
